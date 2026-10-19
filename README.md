@@ -3,3 +3,6 @@ Autor: Pablo
 MatIA: recuento de pinzas con datos sinteticos.
 Ejecucion: py src/recuento_matIA.py
 IA: no usada
+
+## Comprobacion
+He probado los casos coincide, faltan y sobran pinzas.
